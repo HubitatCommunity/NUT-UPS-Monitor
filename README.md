@@ -25,7 +25,7 @@
 <p>&nbsp;</p>
 <p>Hubitat Setup:</p>
 <ul style="list-style-position: inside;">
-<li>Download the <a title="nut_ups_driver code" href="https://raw.githubusercontent.com/mlritchie/Hubitat/master/NUT%20UPS%20Monitor/nut_ups_driver">nut_ups_driver code</a> and navigate to Drivers Code and create a new driver with this code in your HE hub</li>
+<li>Download the <a title="nut_ups_driver code" href="https://raw.githubusercontent.com/HubitatCommunity/NUT-UPS-Monitor/master/nut_ups_driver">nut_ups_driver code</a> and navigate to Drivers Code and create a new driver with this code in your HE hub</li>
 <li>Create a new Virtual device
 <ul>
 <li>Navigate to&nbsp;Devices and click Add&nbsp;Virtual Device</li>
